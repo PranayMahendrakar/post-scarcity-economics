@@ -12,3 +12,4 @@
 - [2026-04-27T11:47:24Z] refactor: simplify conditional logic
 - [2026-04-27T15:18:09Z] docs: improve inline documentation
 - [2026-04-27T22:00:23Z] docs: improve inline documentation
+- [2026-04-27T12:57:03Z] chore: update dependencies to latest versions
