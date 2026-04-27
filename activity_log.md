@@ -9,3 +9,4 @@
 - [2026-04-24T09:09:48Z] perf: optimize loop for better performance
 - [2026-04-27T16:26:38Z] docs: update README with usage examples
 - [2026-04-27T16:24:45Z] refactor: clean up unused imports
+- [2026-04-27T11:47:24Z] refactor: simplify conditional logic
