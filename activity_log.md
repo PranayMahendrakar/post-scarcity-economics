@@ -10,3 +10,4 @@
 - [2026-04-27T16:26:38Z] docs: update README with usage examples
 - [2026-04-27T16:24:45Z] refactor: clean up unused imports
 - [2026-04-27T11:47:24Z] refactor: simplify conditional logic
+- [2026-04-27T15:18:09Z] docs: improve inline documentation
